@@ -13,9 +13,9 @@
     var wins = 0;
     var tries = 10;
     var audioElement = document.createElement("audio");
-    audioElement.setAttribute("src", "Assets/imagesandsounds/Evil.mp3");
+    audioElement.setAttribute("src", "assets/Evil.mp3");
     var audioElement2 = document.createElement("audio");
-    audioElement2.setAttribute("src", "Assets/imagesandsounds/tada.mp3");
+    audioElement2.setAttribute("src", "assets/tada.mp3");
    
     
     // This function is run whenever the user presses a key.
